@@ -16,10 +16,6 @@ This is an exercise that involves editing a *.json file using express framework.
 - node server.js
 - you can observe a content of test.json file.
 
-## Functionality
-
-Just sends website as response of your http GET request. Then allow you to chose and upload file. If you choose image file, it will be displayed after upload.
-
 ## License
 
 The following license terms apply to my code. The libraries and frameworks used to create the application contain separate license terms.
